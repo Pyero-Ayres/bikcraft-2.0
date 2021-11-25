@@ -49,7 +49,7 @@
   left: -21px;
   position: absolute;
   display: inline-block;
-  background-image: url(../../img/icones/lista.svg);
+  background-image: url("../../img/icones/lista.svg");
 }
 .seguros-item a {
   grid-column: 1/-1;
